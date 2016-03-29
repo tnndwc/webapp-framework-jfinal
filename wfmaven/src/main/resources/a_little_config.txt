@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://xxxxxxxx:3301/xxxx?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = appm
+password = appm
+devMode = true
